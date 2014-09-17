@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: build - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\jmchen\AppData\Local\Temp\RSPBFD.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/build.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\jmchen09\gluit\src\fonts.cpp"
+"D:\jmchen09\gluit\src\glm.cpp"
+"D:\jmchen09\gluit\src\help.cpp"
+"D:\jmchen09\gluit\src\stlread.cpp"
+"D:\jmchen09\gluit\src\tga.cpp"
+"D:\jmchen09\gluit\src\viewer.cpp"
+]
+Creating command line "cl.exe @C:\Users\jmchen\AppData\Local\Temp\RSPBFD.tmp" 
+Creating command line "link.exe -lib /nologo /out:"..\lib\gluit.lib"  .\Debug\fonts.obj .\Debug\glm.obj .\Debug\help.obj .\Debug\stlread.obj .\Debug\tga.obj .\Debug\viewer.obj "
+<h3>Output Window</h3>
+Compiling...
+fonts.cpp
+glm.cpp
+help.cpp
+stlread.cpp
+tga.cpp
+viewer.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+gluit.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

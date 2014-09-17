@@ -1,0 +1,12 @@
+*.rar
+*.zip
+3ds2obj/*
+STLmodels/*
+published/*
+examples/*
+tst/*
+tstvc9/*
+*/Debug/*
+OBJmodels/bug/*
+OBJmodels/objects/*
+
