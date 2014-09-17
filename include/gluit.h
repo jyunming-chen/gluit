@@ -17,7 +17,7 @@
 //#endif
 
 #ifdef _MSC_VER
-	#pragma comment (lib, "gluit.lib")
+//	#pragma comment (lib, "gluit.lib")
 #endif
 
 // fonts.c
